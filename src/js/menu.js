@@ -35,5 +35,4 @@ refs.switcher.addEventListener('change', ({target}) => {
     else {
         changeClass(theme.LIGHT, theme.DARK)
 }
-
 })
